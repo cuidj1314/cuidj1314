@@ -28,12 +28,11 @@
 </p>
 
 ## <h3 align="left">📣 Besoin de me contacter ? Retrouvez-moi ici :</h3>
-  
-<br/>
-  
 <p>
   <a href="mailto:cuidj1314@gmail.com?subject=[GitHub]%20🔥%20Emergency%20contact&body=Dear%20cui:%0A%0AI%20am%20a%20friend%20from%20github%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
+
+</br>
 
 cuidj1314 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
