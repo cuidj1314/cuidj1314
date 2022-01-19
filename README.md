@@ -3,7 +3,7 @@
   Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 </h1>
 <p>
-    <img align=left src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cuidj1314&layout=compact&theme=dark&hide_border=true">
+    <img align=left src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cuidj1314&layout=compact&langs_count=8&theme=dark&hide_border=true">
     <p>
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
