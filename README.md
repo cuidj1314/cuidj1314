@@ -3,11 +3,11 @@
 
 ## <h3 align="left">GitHub Stats</h3>
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=cuidj1314&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
 
 **cuidj1314/cuidj1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
