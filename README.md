@@ -5,9 +5,9 @@
 
 ## <h3 align="left">GitHub Stats</h3>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cuidj1314&show_icons=true&theme=dark&hide_border=true" width=400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cuidj1314&theme=dark&hide_border=true" width=400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cuidj1314&layout=compact&theme=dark&hide_border=true" width=400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=cuidj1314&show_icons=true&theme=dark&hide_border=true" width=350>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cuidj1314&theme=dark&hide_border=true" width=350>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cuidj1314&layout=compact&theme=dark&hide_border=true" width=350>
 </p>
 
 <p>
