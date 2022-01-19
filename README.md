@@ -7,6 +7,8 @@
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=cuidj1314&show_icons=true&hide_border=true&theme=dark)
 
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+
 **cuidj1314/cuidj1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
