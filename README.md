@@ -9,6 +9,7 @@
     <p>
         <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
         <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
+        <img src="https://img.shields.io/badge/-java-000?&logo=java"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
