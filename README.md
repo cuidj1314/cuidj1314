@@ -1,12 +1,12 @@
+
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+
 ## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=cuidj1314&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 
-### Hi there 👋
-
-<!--
 **cuidj1314/cuidj1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
