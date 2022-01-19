@@ -3,7 +3,7 @@
   Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 </h1>
 
-## <h3 align="left">Used Language</h3>
+## <h3 align="left">Language&Technology</h3>
 <p>
     <img align=left src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cuidj1314&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
     <p>
@@ -12,8 +12,9 @@
         <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
         <img src="https://img.shields.io/badge/-shell-000?&logo=shell"/>
         <img src="https://img.shields.io/badge/-vue.js-000?&logo=vue.js"/>
-      <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90"/>
-      <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker"/>
+        <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90"/>
+        <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker"/>
+        <img src="https://img.shields.io/badge/-Spring-000?&logo=Spring"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
