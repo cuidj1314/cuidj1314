@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
         <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
         <img src="https://img.shields.io/badge/-shell-000?&logo=shell"/>
+        <img src="https://img.shields.io/badge/-vue.js-000?&logo=vue.js"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
