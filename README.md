@@ -12,6 +12,8 @@
         <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
         <img src="https://img.shields.io/badge/-shell-000?&logo=shell"/>
         <img src="https://img.shields.io/badge/-vue.js-000?&logo=vue.js"/>
+      <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90"/>
+      <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker"/>
     </p>
     <p>
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
