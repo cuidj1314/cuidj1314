@@ -16,7 +16,9 @@
         <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
     </p>
 </p>
-  
+
+</br>
+
 ## <h3 align="left">GitHub Stats</h3>
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=cuidj1314&show_icons=true&theme=dark&hide_border=true">
