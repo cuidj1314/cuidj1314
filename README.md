@@ -9,11 +9,9 @@
     <p>
         <img src="https://img.shields.io/badge/-java-000?&logo=java"/>
         <img src="https://img.shields.io/badge/-kotlin-000?&logo=kotlin"/>
-      <img src="https://img.shields.io/badge/-Sql-000?&logo=Sql"/>
-        <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
-        <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
         <img src="https://img.shields.io/badge/-shell-000?&logo=shell"/>
         <img src="https://img.shields.io/badge/-vue.js-000?&logo=vue.js"/>
+        <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript"/>
         <img src="https://img.shields.io/badge/-html5-000?&logo=html5"/>
         <img src="https://img.shields.io/badge/-css3-000?&logo=css3"/>
     </p>
